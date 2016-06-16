@@ -50,6 +50,11 @@ a small {
   margin:0 auto;
 }
 
+.hangingindent {
+  padding-left: 22px ;
+  text-indent: -22px ;
+}
+
 blockquote {
   border-left:1px solid #e5e5e5;
   margin:0;
